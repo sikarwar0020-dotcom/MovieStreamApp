@@ -1,4 +1,4 @@
-# Movie Streaming App - Android
+# Movie Streaming App - Android & IOS
 
 Android client for the Kotlin Multiplatform Movie Streaming application.
 
